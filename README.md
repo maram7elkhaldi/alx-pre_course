@@ -1,3 +1,1 @@
-My work
-README updat from github.com
-README updat from github.com
+My first readme
