@@ -1,2 +1,2 @@
 touch up_to_date
-git push origin
+git pull origin main
